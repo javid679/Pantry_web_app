@@ -90,7 +90,7 @@ The Pantry Web App helps the pantry maintain and manage products available in th
 ![Login Page](https://github.com/javid679/Pantry_web_app/blob/main/Pantry_web_app/screenshoots/WhatsApp%20Image%202022-12-10%20at%2014.44.05%20(1).jpeg?raw=true)
 
 ### Product Dashboard 
-![Product Dashboard](path/to/your/image3.png)
+![Product Dashboard](https://github.com/javid679/Pantry_web_app/blob/main/Pantry_web_app/screenshoots/WhatsApp%20Image%202022-12-10%20at%2014.44.05%20(17).jpeg?raw=true)
 
 ### Product Cart Creation
 ![Product Cart](https://github.com/javid679/Pantry_web_app/blob/main/Pantry_web_app/screenshoots/WhatsApp%20Image%202022-12-10%20at%2014.44.05%20(21).jpeg?raw=true)
